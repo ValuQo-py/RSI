@@ -1,2 +1,2 @@
-# RSI_MACD
-Python Implementation of RSI and MACD
+# RSI
+Python Implementation of RSI
